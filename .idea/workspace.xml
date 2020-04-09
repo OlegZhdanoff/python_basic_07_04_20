@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="855061f4-636c-4255-8848-89456afcf1d1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="F:\GeekBrains\Python_Basic\python_basic_07_04_20\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aIEhdk5Bspb5faWH4z70rBUK2E" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.lesson_1_6">
+    <configuration name="lesson_1-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_basic_07_04_20" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_1-2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lesson_1_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_basic_07_04_20" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_1_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lesson_1_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_basic_07_04_20" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_1_4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lesson_1_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_basic_07_04_20" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_1_5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lesson_1_6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_basic_07_04_20" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_1_6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.lesson_1_6" />
+        <item itemvalue="Python.lesson_1_5" />
+        <item itemvalue="Python.lesson_1_4" />
+        <item itemvalue="Python.lesson_1_3" />
+        <item itemvalue="Python.lesson_1-2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="855061f4-636c-4255-8848-89456afcf1d1" name="Default Changelist" comment="" />
+      <created>1586414827836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586414827836</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first test commit">
+      <created>1586416256725</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586416256725</updated>
+    </task>
+    <task id="LOCAL-00002" summary="exercise 1 complete">
+      <created>1586418492101</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586418492101</updated>
+    </task>
+    <task id="LOCAL-00003" summary="exercise 2 complete">
+      <created>1586424980879</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586424980879</updated>
+    </task>
+    <task id="LOCAL-00004" summary="exercise 3 complete">
+      <created>1586425894658</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586425894658</updated>
+    </task>
+    <task id="LOCAL-00005" summary="exercise 4 complete">
+      <created>1586428578763</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1586428578763</updated>
+    </task>
+    <task id="LOCAL-00006" summary="exercise 5 complete">
+      <created>1586430840822</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1586430840822</updated>
+    </task>
+    <task id="LOCAL-00007" summary="exercise 6 complete">
+      <created>1586441409055</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1586441409055</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first test commit" />
+    <MESSAGE value="exercise 1 complete" />
+    <MESSAGE value="exercise 2 complete" />
+    <MESSAGE value="exercise 3 complete" />
+    <MESSAGE value="exercise 4 complete" />
+    <MESSAGE value="exercise 5 complete" />
+    <MESSAGE value="exercise 6 complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercise 6 complete" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="541" y="291" width="1092" height="707" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586415690083">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="541" y="291" width="1092" height="707" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586415690083" />
+    <state x="848" y="439" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586425951315">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="848" y="439" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586425951315" />
+    <state x="719" y="127" key="CommitChangelistDialog2" timestamp="1586441403754">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="719" y="127" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586441403754" />
+    <state x="881" y="526" key="Github.CreatePullRequestDialog" timestamp="1586441738414">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="881" y="526" key="Github.CreatePullRequestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586441738414" />
+    <state width="1362" height="192" key="GridCell.Tab.0.bottom" timestamp="1586441344105">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="192" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586441344105" />
+    <state width="1362" height="192" key="GridCell.Tab.0.center" timestamp="1586441344105">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="192" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586441344105" />
+    <state width="1362" height="192" key="GridCell.Tab.0.left" timestamp="1586441344104">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="192" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586441344104" />
+    <state width="1362" height="192" key="GridCell.Tab.0.right" timestamp="1586441344105">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="192" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586441344105" />
+    <state width="1362" height="240" key="GridCell.Tab.1.bottom" timestamp="1586426755703">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="240" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586426755703" />
+    <state width="1362" height="240" key="GridCell.Tab.1.center" timestamp="1586426755703">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="240" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586426755703" />
+    <state width="1362" height="240" key="GridCell.Tab.1.left" timestamp="1586426755703">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="240" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586426755703" />
+    <state width="1362" height="240" key="GridCell.Tab.1.right" timestamp="1586426755703">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="240" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586426755703" />
+    <state x="588" y="279" key="SettingsEditor" timestamp="1586416017476">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="588" y="279" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586416017476" />
+    <state x="643" y="380" key="Vcs.Push.Dialog.v2" timestamp="1586441481751">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="643" y="380" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586441481751" />
+    <state x="748" y="388" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1586441731952">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="748" y="388" key="com.intellij.dvcs.ui.CompareBranchesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586441731952" />
+    <state x="487" y="237" width="1200" height="800" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1586415273989">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="487" y="237" width="1200" height="800" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586415273989" />
+    <state x="623" y="344" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1586426440830">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="344" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1586426440830" />
+  </component>
+</project>
