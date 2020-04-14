@@ -3,6 +3,7 @@
 (зима, весна, лето, осень). Напишите решения через list и через dict.
 """
 
+
 def input_int(msg):
     str = input(f'{msg}\n')
     while True:
@@ -14,7 +15,7 @@ def input_int(msg):
 
 
 month = input_int('Введите номер месяца')
-while month < 1 and month > 12:
+while 1 > month or month > 12:
     print("Такого месяца не существует!")
     month = input_int('Введите номер месяца')
 
