@@ -26,12 +26,11 @@ rating_el = input_int('Введите рейтинг')
 if rating_el in rating:
     rating.insert(rating.index(rating_el), rating_el)
 else:
-    for el in rating:
-        if rating_el > el:
-            rating.insert(rating.index(el), rating_el)
+    for el in reversed(rating):
+        if rating_el < el:
+            rating.insert(rating.index(el)+1, rating_el)
             break
-        else:
-            rating.append(rating_el)
-            break
+        elif rating.index(el) == 0:
+            rating.insert(0, rating_el)
 
 print(rating)
