@@ -4,7 +4,7 @@
 """
 
 i = 1
-words = input('Введите строку')
+words = input('Введите строку\n')
 
 for el in words.split(' '):
     print(i, el[:10])
