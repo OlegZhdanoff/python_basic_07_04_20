@@ -12,7 +12,7 @@ try:
     with open('example_3.txt', 'rt', encoding='utf-8') as file:
         for el in file.readlines():
             tmp = el.split()
-            if len(tmp) == 2:
+            if len(tmp) > 1:
                 if tmp[1].isdigit():
                     employees.update({tmp[0]: int(tmp[1])})
                     if int(tmp[1]) < 20000:
