@@ -44,6 +44,13 @@ for el in data:
     is_name = False
 
 print(lessons_dict)
-# print(ord('a'), ord('A'), ord('z'), ord('Z'))
-# print(ord('а'), ord('А'), ord('я'), ord('Я'))
 
+
+# решение задачи с помощью регулярных выражений
+import re
+lessons_dict = dict()
+for el in data:
+    name = re.match(r'\s{0,}(\w+|\s+)*', el).group(0)
+    digit_lst = re.findall(r'\d+', el)
+    lessons_dict.update({re.sub(r'^\s*', '', name): sum(map(int, digit_lst))})
+print(lessons_dict)
