@@ -9,16 +9,17 @@
 """
 import time
 
+
 class TrafficLight:
     __color = ''
     __modes = (('red', 7),
-              ('yellow', 2),
-              ('green', 4),
-              )
+               ('yellow', 2),
+               ('green', 4),
+               )
 
     def running(self, clr):
         for i, mode in enumerate(self.__modes):
-            if (clr == mode[0] and self.__color == self.__modes[i-1][0]) or not self.__color:
+            if (clr == mode[0] and self.__color == self.__modes[i - 1][0]) or not self.__color:
                 self.__color = clr
                 print(self.__color)
                 time.sleep(mode[1])
@@ -32,6 +33,3 @@ traffic_light.running('red')
 traffic_light.running('yellow')
 traffic_light.running('green')
 traffic_light.running('yellow')
-
-
-
