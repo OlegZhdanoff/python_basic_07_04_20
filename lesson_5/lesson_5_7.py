@@ -51,5 +51,5 @@ company_profit = {'average_profit': avg_profit}
 final_lst = [company, company_profit]
 
 with open('example_7.json', 'wt', encoding='utf-8') as file:
-    json.dump(final_lst, file)
+    json.dump(final_lst, file, ensure_ascii=False)
 
