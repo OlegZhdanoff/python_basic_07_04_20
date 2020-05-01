@@ -50,7 +50,7 @@ print(lessons_dict)
 import re
 lessons_dict = dict()
 for el in data:
-    name = re.match(r'\s{0,}(\w+|\s+)*', el).group(0)
+    name = re.match(r'\s*(\w+|\s+)+', el).group(0)
     digit_lst = re.findall(r'\d+', el)
     lessons_dict.update({re.sub(r'^\s*', '', name): sum(map(int, digit_lst))})
 print(lessons_dict)
