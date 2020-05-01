@@ -25,7 +25,7 @@ class Matrix:
     def __add__(self, other):
         result = Matrix([[]])
         for row, row_other in self.table, other.table:
-            result.table.append(list(map((lambda x, y: x + y), row, row_other)))
+            result.table.append(map((lambda x, y: x + y), row, row_other))
         return result
 
 
